@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Places to eat
+    * Percy
+    * Hanuman
+2. Favourite Books
+    - Silence of the lambs
+    - Mikey and the dragons
